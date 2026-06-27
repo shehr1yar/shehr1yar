@@ -1,2 +1,2 @@
 <!-- <img src="https://raw.githubusercontent.com/shehr1yar/shehr1yar/refs/heads/main/kitty-mountain.jpg" width="400" height="250" alt="Kitty Mountain"> <img src="https://raw.githubusercontent.com/shehr1yar/shehr1yar/refs/heads/main/kitty-grass.jpg" width="400" height="250" alt="Kitty Grass"> -->
-<img src="https://raw.githubusercontent.com/shehr1yar/shehr1yar/refs/heads/main/landing.jpg" width="900" height="300">
+<img src="https://raw.githubusercontent.com/shehr1yar/shehr1yar/refs/heads/main/landing-.jpg" width="900" height="250">
